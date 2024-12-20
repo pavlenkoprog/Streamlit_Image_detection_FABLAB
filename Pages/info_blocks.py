@@ -19,6 +19,8 @@ def yolo_info():
     распознавание изображений на практике и как можно использовать его для решения 
     различных проблем.
     
+    Репозиторий можно найти тут https://github.com/pavlenkoprog/Streamlit_Image_detection_FABLAB
+    
     По вопросам сотрудничества обращайтесь в группу в ВК https://vk.com/fablabkfuv
     
     или на почту fablab@cfuv.ru
